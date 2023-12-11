@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/paulo/OneDrive/Documentos/GitHub/requisitos-2023.1/PD_Juiz_Virtual/Job_Scheduling",
+      "program": "c:/Users/paulo/OneDrive/Documentos/GitHub/requisitos-2023.1/PD_Juiz_Virtual/Job_Scheduling/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

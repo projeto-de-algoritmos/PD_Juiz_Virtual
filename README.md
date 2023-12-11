@@ -59,10 +59,10 @@ As questões foram submetidas ao leetcode, que possui uma estrutura de submissã
 
 ## Apresentação
  
- Assista ao vídeo abaixo no [Youtube]()
+ Assista ao vídeo abaixo no [Youtube](https://youtu.be/HXXRQrjzA8I)
  
 
-Para acessar o vídeo no repositório   [Clique Aqui](/assets)
+Para acessar o vídeo no repositório   [Clique Aqui](/assets/Progamação%20Dinamica.mp4)
 
 
 
